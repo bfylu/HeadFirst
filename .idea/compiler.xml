@@ -6,15 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="factory" />
         <module name="HeadFirst" />
         <module name="ObserverPattern" />
         <module name="Head-First-Design-Patterns-master" />
-        <module name="beverage" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="beverage" target="17" />
       <module name="duck" target="1.5" />
+      <module name="factory" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
