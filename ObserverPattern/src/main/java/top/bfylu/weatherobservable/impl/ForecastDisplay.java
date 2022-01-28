@@ -2,6 +2,7 @@ package top.bfylu.weatherobservable.impl;
 
 import top.bfylu.weatherobservable.inter.DisplayElement;
 import top.bfylu.weatherobservable.model.WeatherData;
+
 import java.util.Observable;
 import java.util.Observer;
 

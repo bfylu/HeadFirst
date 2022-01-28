@@ -2,6 +2,7 @@ package top.bfylu.weather.impl;
 
 import top.bfylu.weather.inter.Observer;
 import top.bfylu.weather.inter.Subject;
+
 import java.util.ArrayList;
 
 /**
