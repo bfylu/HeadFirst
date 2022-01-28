@@ -6,7 +6,11 @@
 
     <groupId>top.bfylu</groupId>
     <artifactId>HeadFirst</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>singleton</module>
+    </modules>
 
 
 </project>

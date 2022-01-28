@@ -6,12 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="singleton" />
         <module name="factory" />
-        <module name="HeadFirst" />
         <module name="ObserverPattern" />
-        <module name="Head-First-Design-Patterns-master" />
         <module name="duck" />
         <module name="beverage" />
+        <module name="Head-First-Design-Patterns-master" />
       </profile>
     </annotationProcessing>
   </component>
