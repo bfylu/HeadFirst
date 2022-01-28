@@ -10,14 +10,10 @@
         <option value="$PROJECT_DIR$/factory/pom.xml" />
         <option value="$PROJECT_DIR$/ObserverPattern/pom.xml" />
         <option value="$PROJECT_DIR$/Head-First-Design-Patterns-master/pom.xml" />
-      </list>
-    </option>
-    <option name="ignoredFiles">
-      <set>
-        <option value="$PROJECT_DIR$/beverage2/pom.xml" />
-        <option value="$PROJECT_DIR$/duck2/pom.xml" />
         <option value="$PROJECT_DIR$/factory2/pom.xml" />
-      </set>
+        <option value="$PROJECT_DIR$/duck2/pom.xml" />
+        <option value="$PROJECT_DIR$/beverage2/pom.xml" />
+      </list>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="17" project-jdk-type="JavaSDK">

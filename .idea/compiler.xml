@@ -8,7 +8,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="HeadFirst" />
         <module name="ObserverPattern" />
+        <module name="factory2" />
+        <module name="beverage2" />
         <module name="Head-First-Design-Patterns-master" />
+        <module name="duck2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
