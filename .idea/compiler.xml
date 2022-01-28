@@ -10,9 +10,11 @@
         <module name="HeadFirst" />
         <module name="ObserverPattern" />
         <module name="Head-First-Design-Patterns-master" />
-        <module name="duck" />
         <module name="beverage" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="duck" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
